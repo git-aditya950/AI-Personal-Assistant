@@ -10,7 +10,7 @@ A modular, scalable AI Personal Assistant built with Python. Designed for clean 
 ├── nlu_engine.py        # Natural Language Understanding engine
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
-```
+``` 
 
 ## Architecture
 
